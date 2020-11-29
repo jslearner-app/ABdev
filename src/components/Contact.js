@@ -23,7 +23,7 @@ class Contact extends Component {
         </div>
         </Fade>
 
-            <span className='footer'>Made With ❤ by <a href="http://chetanverma.com/">Badmus Abdullahi</a></span>
+            <span className='footer'>Made With ❤ by <a href="https://react-portfolio-murex.vercel.app/">Badmus Abdullahi</a></span>
         </div>);
     }
 }
